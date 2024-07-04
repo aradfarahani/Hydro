@@ -1,0 +1,6 @@
+            MAIN  300 main30.dat
+    HEAD(BINARY)  301 heads.dat
+          BUDGET  302 budget.dat
+        ENDPOINT  303 endpoint
+        PATHLINE  304 pathline
+     TIME-SERIES  305 timesers

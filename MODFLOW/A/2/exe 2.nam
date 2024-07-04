@@ -1,0 +1,9 @@
+LIST    3 output.dat
+BAS     1 bas.dat
+BCF   11 bcf.dat
+OC    22 oc.dat
+PCG   23 pcg2.dat
+DATA(BINARY)  50 budget.dat
+DATA(BINARY)  51 heads.dat
+DATA(BINARY)  52 ddown.dat
+DATA(BINARY)  32 mt3d.flo
